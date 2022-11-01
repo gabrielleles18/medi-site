@@ -24,6 +24,11 @@
 		  "name": "Secondary"
 		},
 		{
+		  "slug": "secondary-light",
+		  "color": "#E6F7FC",
+		  "name": "Secondary Light"
+		},
+		{
 		  "slug": "black",
 		  "color": "#000000",
 		  "name": "Black"

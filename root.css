@@ -1,0 +1,22 @@
+.img-object-fit-fill img {
+	object-fit: fill !important;
+}
+
+.border-radius-50 img {
+	border-radius: 50% !important;
+	height: revert-layer !important;
+}
+
+.box-shadow-50 {
+	box-shadow: 0 3px 8px 0 rgba(0, 0, 0, 0.15)
+}
+
+.background-secondary-hover:hover {
+	background-color: var(--wp--preset--color--secondary) !important;
+	transition: background-color .2s;
+}
+
+
+.flex-block-post .wp-block-post {
+	display: flex;
+}
