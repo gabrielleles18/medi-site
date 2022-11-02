@@ -1,0 +1,49 @@
+{
+	"version": 2,
+	"settings": {
+		"color": {
+		  "palette": [
+			{
+			  "slug": "background",
+			  "color": "#f8fbff",
+			  "name": "Background"
+			},
+			{
+			  "slug": "primary",
+			  "color": "#131A40",
+			  "name": "Primary"
+			},
+			{
+			  "slug": "secondary",
+			  "color": "#4E64A6",
+			  "name": "Secondary"
+			},
+			{
+			  "slug": "secondary-light",
+			  "color": "#829FD9",
+			  "name": "Secondary Light"
+			},
+			{
+			  "slug": "black",
+			  "color": "#000000",
+			  "name": "Black"
+			},
+			{
+			  "slug": "font",
+			  "color": "#757373",
+			  "name": "Font"
+			},
+			{
+			  "slug": "white",
+			  "color": "#ffffff",
+			  "name": "White"
+			},
+			{
+			  "slug": "transparent",
+			  "color": "transparent",
+			  "name": "Transparent"
+			}
+		  ]
+		}
+	}
+}
