@@ -4,7 +4,7 @@
  *
  * @link https://developer.wordpress.org/themes/basics/theme-functions/
  *
- * @package medisite
+ * @package medi-site
  * @since 1.0.0
  */
 
@@ -13,7 +13,7 @@
  *
  * @since 1.0.0
  */
-define('MEDISITE_VERSION', wp_get_theme()->get('Version'));
+define('medi-site_VERSION', wp_get_theme()->get('Version'));
 
 add_action('wp_enqueue_scripts', function () {
 	wp_enqueue_style(

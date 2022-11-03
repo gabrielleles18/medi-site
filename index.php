@@ -5,6 +5,6 @@
  *
  * @link https://core.trac.wordpress.org/ticket/54272
  *
- * @package medisite
+ * @package medi-site
  * @since 1.0.0
  */
