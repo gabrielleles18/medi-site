@@ -1,5 +1,5 @@
 # Medi site
-### A full site editing theme. Advanced version.
+### A full site editing theme.
 
     Contributors: Gabriel Leles
     Tested up to: 6.0
