@@ -10,6 +10,4 @@ Copyright: Gabriel Leles
 
 A full site editing theme. Advanced version.
 
-# Food Delivery
-
 ![image](https://github.com/gabrielleles18/medi-site/blob/master/imagem/screenshot.png)
