@@ -1,5 +1,8 @@
 # Medi site
 ### A full site editing theme.
+Full site editing is a set of new WordPress features that helps us edit all parts of our website: Block themes, template editing, site blocks, and global styles.
+With block themes, you use blocks to create entire pages or websites.
+Everything you see on a page is a block.
 
     Contributors: Gabriel Leles
     Tested up to: 6.0
