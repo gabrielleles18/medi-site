@@ -14,4 +14,4 @@ Everything you see on a page is a block.
     Copyright: Gabriel Leles
 
 
-![image](https://drive.google.com/uc?export=view&id=1hXD0FjZ_--dU1N_WD2_bC0VlhPq0FK7L)
+![image](https://github.com/gabrielleles18/medi-site/blob/master/imagem/screenshot.png)
